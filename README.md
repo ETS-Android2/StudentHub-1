@@ -1,8 +1,8 @@
 # StudentHub
 
-##### A University is a place containing many young men and women who are on a budget and prefer to buy and sell secondhand items in order to save money. Most people post on Facebook groups to try and sell their stuff even though its inconvenient and unorganized.
+A University is a place containing many young men and women who are on a budget and prefer to buy and sell secondhand items in order to save money. Most people post on Facebook groups to try and sell their stuff even though its inconvenient and unorganized.
 
-##### Therefore, StudentHub was created  as a solution. A simple and user-friendly application where students can buy and sell things that other students need ,such as textbooks, electronics, household items, even apartments and private lessons.
+Therefore, StudentHub was created  as a solution. A simple and user-friendly application where students can buy and sell things that other students need ,such as textbooks, electronics, household items, even apartments and private lessons.
 
 
 
